@@ -1,0 +1,104 @@
+JSON TEST
+
+MONTHLY_PAYER 1
+
+{
+  "plate": "MMM-1111",
+  "category": "MONTHLY_PAYER",
+  "active": true,
+  "type_vehicle": "MOTORCYCLE"
+}
+
+TICKET 1
+
+{
+  "plate": "MMM-1111",
+  "typeVehicle": "MOTORCYCLE"
+}
+_______________________________
+
+MONTHLY_PAYER 2
+
+{
+  "plate": "MMM-2222",
+  "category": "MONTHLY_PAYER",
+  "active": true,
+  "type_vehicle": "PASSENGER_CAR"
+}
+
+TICKET 2
+
+{
+  "plate": "MMM-2222",
+  "typeVehicle": "PASSENGER_CAR"
+}
+_______________________________
+
+CASUAL 1
+
+{
+  "plate": "CCC-1111",
+  "category": "CASUAL",
+  "active": false,
+  "type_vehicle": "MOTORCYCLE"
+}
+
+TICKET 3
+
+{
+  "plate": "CCC-1111",
+  "typeVehicle": "MOTORCYCLE"
+}
+_______________________________
+
+CASUAL 2
+
+{
+  "plate": "CCC-2222",
+  "category": "CASUAL",
+  "active": false,
+  "type_vehicle": "PASSENGER_CAR"
+}
+
+TICKET 4
+
+{
+  "plate": "CCC-2222",
+  "typeVehicle": "PASSENGER_CAR"
+}
+_______________________________
+
+DELIVERY_TRUCK 1
+
+{
+  "plate": "DDD-1111",
+  "category": "DELIVERY_TRUCK",
+  "active": false,
+  "type_vehicle": "DELIVERY_TRUCK"
+}
+
+TICKET 5
+
+{
+  "plate": "DDD-1111",
+  "typeVehicle": "DELIVERY_TRUCK"
+}
+_______________________________
+
+PUBLIC_SERVICE 1
+
+{
+  "plate": "PPP-1111",
+  "category": "PUBLIC_SERVICE",
+  "active": false,
+  "type_vehicle": "PUBLIC_SERVICE"
+}
+
+TICKET 6
+
+{
+  "plate": "PPP-1111",
+  "typeVehicle": "PUBLIC_SERVICE"
+}
+_______________________________
+
